@@ -181,6 +181,9 @@
 ### Docker compose:
 
 -   Create a file with name `.docker-compose.yml`.
+-   Use docker compose when,
+    -   the run command gets too long.
+    -   there are multiple machines/containers to work with.
 
 ### Docker file dev:
 
@@ -193,3 +196,7 @@
 -   Type `exit` or `ctrl + d` - to get out of the container's shell.
 
 ---
+
+## React app:
+
+-   test
